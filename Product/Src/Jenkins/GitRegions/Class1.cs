@@ -8,5 +8,6 @@ namespace GitRegions
 {
     public class Class1
     {
+        public string TestProp { get; set; }
     }
 }
